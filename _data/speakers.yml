@@ -1,0 +1,161 @@
+- group: Cognitive science
+  speakers:
+    - name: Josh Tenenbaum
+      area: Cognitive science
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Tom Griffiths
+      area: Cognitive science
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Noah Goodman
+      area: Cognitive science
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+- group: Human-AI interaction
+  speakers:
+    - name: Saleema Amershi
+      area: Human-AI interaction
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Q. Vera Liao
+      area: Human-AI interaction
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Krzysztof Gajos
+      area: Human-AI interaction
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+- group: Human modeling and social reasoning
+  speakers:
+    - name: Maarten Sap
+      area: Human modeling and social reasoning
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Yejin Choi
+      area: Human modeling and social reasoning
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Vered Shwartz
+      area: Human modeling and social reasoning
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+- group: Robotics and embodied AI
+  speakers:
+    - name: Dorsa Sadigh
+      area: Robotics and embodied AI
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Anca Dragan
+      area: Robotics and embodied AI
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Cynthia Breazeal
+      area: Robotics and embodied AI
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+- group: AI alignment and agents
+  speakers:
+    - name: Amanda Askell
+      area: AI alignment and agents
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Percy Liang
+      area: AI alignment and agents
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Graham Neubig
+      area: AI alignment and agents
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+- group: Education and recommendation systems
+  speakers:
+    - name: Emma Brunskill
+      area: Education and recommendation systems
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Ryan Baker
+      area: Education and recommendation systems
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Yongfeng Zhang
+      area: Education and recommendation systems
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+- group: Affective computing and AI companions
+  speakers:
+    - name: Rosalind Picard
+      area: Affective computing and AI companions
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: Meredith Ringel Morris
+      area: Affective computing and AI companions
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC
+    - name: John Torous
+      area: Affective computing and AI companions
+      affiliation: TBC
+      status: Potential / TBC
+      website: TBC
+      bio: TBC
+      talk_title: TBC

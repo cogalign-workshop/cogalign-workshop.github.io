@@ -8,6 +8,9 @@ _site
 .sass-cache
 .tweet-cache
 .venv
+.omx/
+.playwright-mcp/
+cogalign-homepage.png
 assets/libs/
 assets/rendercv/rendercv_output/*.typ
 al-folio-upgrade-report.md

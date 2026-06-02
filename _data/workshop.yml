@@ -1,0 +1,50 @@
+title: Human Modeling and Cognitive Alignment in Interactive Agents
+subtitle: Bridging Human Understanding, AI Metacognition, and Interactive Decision Making
+tagline: How should AI understand humans and itself-and decide when to answer, ask, explain, defer, or act?
+short_name: CogAlign Workshop
+status: Proposed Workshop
+format: One-day Workshop
+expected_attendance: 200-400
+workshop_date: December 11, 12, or 13, 2026, TBC
+location: Atlanta / Sydney / Paris, TBC
+url: https://cogalign-workshop.github.io/
+core_question: How should AI systems use uncertain models of humans and themselves to select interaction policies?
+core_position: Selecting appropriate interaction policies under uncertainty is the next frontier of agentic AI.
+description: >
+  Recent advances in foundation models have enabled AI systems that can reason,
+  plan, retrieve information, use tools, generate content, and participate in
+  increasingly complex workflows. As AI systems evolve from passive predictors
+  into interactive agents, they are increasingly judged not only by output
+  quality, but by the quality of their interactions with humans. This workshop
+  focuses on Human Modeling and Cognitive Alignment as an emerging
+  interdisciplinary area connecting human modeling, AI metacognition, cognitive
+  alignment, and interaction-policy selection.
+proposal:
+  community_relevance: >
+    The workshop connects machine learning, NLP, robotics, HCI, cognitive
+    science, recommender systems, AI safety, education, healthcare, affective
+    computing, and AI companions around a shared interaction-policy problem.
+  differentiation: >
+    This workshop is complementary to existing workshops but focuses on a
+    different unit of analysis: how uncertain models of humans and uncertain
+    models of AI capability should jointly determine interaction policies.
+  concurrent_submissions: TBC
+  organizer_authored_submissions: TBC
+  conflict_policy: >
+    Conflicted organizers will not participate in reviewing or decisions for
+    conflicted submissions.
+  location_preference:
+    - Atlanta
+    - Sydney
+    - Paris
+  special_requirements:
+    - Standard workshop room with projector/screen
+    - Microphones for invited talks, panel discussion, and audience Q&A
+    - Reliable Wi-Fi
+    - Poster boards or equivalent poster-display space
+    - Space for 200-400 attendees
+    - Support for slide presentation from organizer/speaker laptops
+    - Optional hybrid or recording support if available from the venue
+    - Accessibility support consistent with conference policy
+    - No unusual technical requirements beyond standard workshop infrastructure
+contact: TBC

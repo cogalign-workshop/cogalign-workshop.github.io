@@ -1,0 +1,16 @@
+- workshop: PersonaLLM
+  focus: Personalization and persona modeling
+- workshop: Behavioral ML
+  focus: Human behavior prediction
+- workshop: Cognitive Interpretability
+  focus: Cognition and interpretability in models
+- workshop: Pluralistic Alignment
+  focus: Human values and preference alignment
+- workshop: Bi-Align
+  focus: Bidirectional human-AI alignment
+- workshop: Models of Human Feedback for AI Alignment
+  focus: Human feedback and alignment learning
+- workshop: Agent workshops
+  focus: Planning, tools, autonomy, embodied agents
+- workshop: Our workshop
+  focus: Human modeling + AI metacognition -> interaction-policy selection

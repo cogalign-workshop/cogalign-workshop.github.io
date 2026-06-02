@@ -1,0 +1,47 @@
+topics:
+  - Human modeling, user modeling, theory of mind, personalization, preference learning, human simulation, and social reasoning
+  - AI metacognition, uncertainty estimation, calibration, self-evaluation, capability assessment, selective prediction, and risk-aware reasoning
+  - Cognitive alignment, interaction policies, clarification strategies, human-aware planning, human-AI collaboration, and shared mental models
+  - Foundation models, multimodal systems, agentic AI, tool-using agents, memory systems, embodied agents, and robotics
+  - AI companions, affective computing, trust, emotional modeling, long-term adaptation, and human-AI relationships
+  - Evaluation methodologies, benchmarks, longitudinal studies, trust calibration, and human-centered metrics
+  - Applications in education, healthcare, public health, scientific discovery, journalism, recommendation systems, accessibility, finance, and social robotics
+domains:
+  - name: Education and tutoring
+    description: Interaction policies determine when systems should teach, quiz, hint, explain, adapt, or hand control back to learners.
+  - name: Healthcare and public health
+    description: Assistants must balance personalization, calibrated uncertainty, escalation, privacy, and human autonomy in high-stakes settings.
+  - name: Human-robot collaboration
+    description: Robots need models of human intent, capability, workload, and trust to decide when to act, ask, wait, or defer.
+  - name: AI companions and long-term relationships
+    description: Longitudinal systems raise questions about adaptation, emotional dependence, transparency, and responsible support.
+  - name: Scientific discovery
+    description: Research assistants must reason about a scientist's goals, evidence needs, uncertainty, and when to suggest or challenge hypotheses.
+  - name: Journalism and information gathering
+    description: Interactive agents must decide when to retrieve, verify, ask clarifying questions, expose uncertainty, or refuse unsupported claims.
+  - name: Recommendation systems
+    description: Recommenders need to model preference uncertainty, context, long-term effects, and when explanation or exploration is appropriate.
+  - name: Accessibility and public services
+    description: Public-facing agents must adapt to diverse needs while preserving fairness, dignity, transparency, and reliable escalation paths.
+submission_types:
+  - Research papers
+  - Position papers
+  - Benchmark papers
+  - Dataset papers
+  - Systems papers
+  - Interdisciplinary studies
+review_criteria:
+  - Relevance to the workshop theme
+  - Scientific quality and technical soundness
+  - Novelty and significance
+  - Potential impact on human-AI interaction and agentic systems
+  - Clarity of presentation
+  - Reproducibility, benchmarking, or evaluation rigor where appropriate
+outcomes:
+  - Establish Human Modeling and Cognitive Alignment as a coherent interdisciplinary research area
+  - Connect fragmented research communities
+  - Identify common benchmarks, datasets, and evaluation methodologies
+  - Clarify open scientific challenges and future directions
+  - Foster collaborations across ML, NLP, robotics, HCI, cognitive science, recommender systems, AI safety, and domain applications
+  - Develop shared vocabulary for human modeling, AI metacognition, and interaction-level alignment
+  - Host accepted papers, slides, posters, and post-workshop resources on the website
