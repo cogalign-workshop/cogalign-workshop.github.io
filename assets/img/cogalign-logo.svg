@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">CogAlign Workshop logo</title>
+  <desc id="desc">A circular mark connecting a human profile and an AI node through an alignment bridge.</desc>
+  <defs>
+    <linearGradient id="cogalign-bg" x1="76" y1="64" x2="438" y2="448" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#092a33" />
+      <stop offset="0.54" stop-color="#124e57" />
+      <stop offset="1" stop-color="#7a176d" />
+    </linearGradient>
+    <linearGradient id="cogalign-accent" x1="132" y1="116" x2="382" y2="388" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#72f2df" />
+      <stop offset="0.52" stop-color="#f6f0ff" />
+      <stop offset="1" stop-color="#f03bc2" />
+    </linearGradient>
+    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#031014" flood-opacity="0.28" />
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#cogalign-bg)" />
+  <g filter="url(#soft-shadow)">
+    <path
+      fill="none"
+      stroke="url(#cogalign-accent)"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="34"
+      d="M139 330c34-47 66-71 108-71 37 0 62 18 88 43 16 15 30 26 48 28"
+    />
+    <path
+      fill="none"
+      stroke="#f6f0ff"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="34"
+      d="M139 182c34 47 66 71 108 71 37 0 62-18 88-43 16-15 30-26 48-28"
+      opacity="0.92"
+    />
+    <circle cx="139" cy="182" r="38" fill="#72f2df" />
+    <circle cx="139" cy="330" r="38" fill="#f03bc2" />
+    <circle cx="383" cy="182" r="38" fill="#f6f0ff" />
+    <circle cx="383" cy="330" r="38" fill="#f6f0ff" opacity="0.9" />
+  </g>
+  <path
+    fill="#f6f0ff"
+    d="M227 151c-36 0-66 30-66 66 0 30 20 55 48 63v27c0 15 12 27 27 27h39c12 0 22-10 22-22 0-6-2-11-6-15l-18-19c14-12 22-30 22-51 0-42-30-76-68-76Zm0 35c19 0 33 18 33 41 0 20-12 34-29 34-19 0-35-20-35-44 0-17 14-31 31-31Z"
+    opacity="0.96"
+  />
+  <circle cx="228" cy="218" r="9" fill="#092a33" />
+  <path
+    fill="none"
+    stroke="#72f2df"
+    stroke-linecap="round"
+    stroke-width="18"
+    d="M306 256h40"
+  />
+  <circle cx="372" cy="256" r="27" fill="#092a33" stroke="#72f2df" stroke-width="18" />
+</svg>
