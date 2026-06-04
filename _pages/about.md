@@ -23,6 +23,13 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
     text-transform: uppercase;
   }
 
+  .workshop-logo {
+    display: block;
+    height: clamp(4.5rem, 12vw, 7rem);
+    margin-bottom: 1.5rem;
+    width: auto;
+  }
+
   .workshop-subtitle {
     font-size: 1.35rem;
     line-height: 1.35;
@@ -73,6 +80,7 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
 </style>
 
 <div class="workshop-hero" id="overview">
+  <img class="workshop-logo" src="{{ '/assets/img/cogalign-logo.svg' | relative_url }}" alt="CogAlign Workshop logo" />
   <h1 class="workshop-title">{{ site.data.workshop.title }}</h1>
   <p class="workshop-subtitle">{{ site.data.workshop.subtitle }}</p>
   <p><strong>{{ site.data.workshop.tagline }}</strong></p>

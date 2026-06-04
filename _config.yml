@@ -16,7 +16,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: human modeling, cognitive alignment, interactive agents, AI metacognition, NeurIPS workshop, human-AI interaction # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: cogalign-logo.svg # favicon/logo file in /assets/img/
 
 url: https://cogalign-workshop.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -245,7 +245,24 @@ exclude:
   - assets/audio/
   - assets/bibliography/
   - assets/html/
-  - assets/img/
+  - assets/img/1.jpg
+  - assets/img/10.jpg
+  - assets/img/11.jpg
+  - assets/img/12.jpg
+  - assets/img/2.jpg
+  - assets/img/3.jpg
+  - assets/img/4.jpg
+  - assets/img/5.jpg
+  - assets/img/6.jpg
+  - assets/img/7.jpg
+  - assets/img/8.jpg
+  - assets/img/9.jpg
+  - assets/img/book_covers/
+  - assets/img/prof_pic.jpg
+  - assets/img/prof_pic_color.png
+  - assets/img/publication_preview/
+  - assets/img/rhino.png
+  - assets/img/template_error.png
   - assets/json/
   - assets/jupyter/
   - assets/pdf/
