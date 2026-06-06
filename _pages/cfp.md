@@ -3,7 +3,7 @@ layout: page
 title: CFP
 permalink: /cfp/
 nav: true
-nav_order: 2
+nav_order: 4
 description: Call for papers for the proposed workshop.
 ---
 

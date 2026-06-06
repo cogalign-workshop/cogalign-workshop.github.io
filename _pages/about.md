@@ -213,11 +213,11 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
 
     <nav class="workshop-nav" aria-label="Workshop sections">
       <a href="#scope">Scope</a>
+      <a href="#speakers">Speakers</a>
+      <a href="#organizers">Organizers</a>
       <a href="#cfp">CFP</a>
       <a href="#dates">Dates</a>
       <a href="#schedule">Schedule</a>
-      <a href="#speakers">Speakers</a>
-      <a href="#organizers">Organizers</a>
     </nav>
   </header>
 
@@ -248,6 +248,41 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
         <li>{{ topic }}</li>
       {% endfor %}
     </ul>
+  </section>
+
+  <section class="workshop-section" id="speakers">
+    <h2>Invited Speakers and Panelists</h2>
+    {% for group in site.data.speakers %}
+      {% for speaker in group.speakers %}
+        <article class="workshop-person">
+          <h3><a href="{{ speaker.website }}">{{ speaker.name }}</a></h3>
+          <p class="workshop-person-meta">{{ speaker.affiliation }} · {{ speaker.area }} · {{ speaker.status }}</p>
+          <p>{{ speaker.connection }}</p>
+        </article>
+      {% endfor %}
+    {% endfor %}
+  </section>
+
+  <section class="workshop-section" id="organizers">
+    <h2>Organizers</h2>
+    <div class="workshop-grid">
+      {% for organizer in site.data.organizers.organizers %}
+        <div class="workshop-panel">
+          <h3><a href="{{ organizer.website }}">{{ organizer.name }}</a></h3>
+          <p class="workshop-person-meta">{{ organizer.affiliation }}</p>
+          <p>{{ organizer.bio }}</p>
+        </div>
+      {% endfor %}
+    </div>
+
+    <h3>Program Committee</h3>
+    <ul class="workshop-list">
+      {% for member in site.data.organizers.program_committee %}
+        <li>{{ member }}</li>
+      {% endfor %}
+    </ul>
+
+    <p class="workshop-small">Contact: <a href="mailto:{{ site.data.workshop.contact }}">{{ site.data.workshop.contact }}</a></p>
   </section>
 
   <section class="workshop-section" id="cfp">
@@ -314,41 +349,6 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
         </tbody>
       </table>
     </div>
-  </section>
-
-  <section class="workshop-section" id="speakers">
-    <h2>Invited Speakers and Panelists</h2>
-    {% for group in site.data.speakers %}
-      {% for speaker in group.speakers %}
-        <article class="workshop-person">
-          <h3><a href="{{ speaker.website }}">{{ speaker.name }}</a></h3>
-          <p class="workshop-person-meta">{{ speaker.affiliation }} · {{ speaker.area }} · {{ speaker.status }}</p>
-          <p>{{ speaker.connection }}</p>
-        </article>
-      {% endfor %}
-    {% endfor %}
-  </section>
-
-  <section class="workshop-section" id="organizers">
-    <h2>Organizers</h2>
-    <div class="workshop-grid">
-      {% for organizer in site.data.organizers.organizers %}
-        <div class="workshop-panel">
-          <h3><a href="{{ organizer.website }}">{{ organizer.name }}</a></h3>
-          <p class="workshop-person-meta">{{ organizer.affiliation }}</p>
-          <p>{{ organizer.bio }}</p>
-        </div>
-      {% endfor %}
-    </div>
-
-    <h3>Program Committee</h3>
-    <ul class="workshop-list">
-      {% for member in site.data.organizers.program_committee %}
-        <li>{{ member }}</li>
-      {% endfor %}
-    </ul>
-
-    <p class="workshop-small">Contact: <a href="mailto:{{ site.data.workshop.contact }}">{{ site.data.workshop.contact }}</a></p>
   </section>
 </div>
 

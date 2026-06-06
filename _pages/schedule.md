@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 permalink: /schedule/
 nav: true
-nav_order: 5
+nav_order: 6
 description: Tentative one-day workshop schedule.
 ---
 

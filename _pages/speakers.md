@@ -3,7 +3,7 @@ layout: page
 title: Speakers
 permalink: /speakers/
 nav: true
-nav_order: 4
+nav_order: 2
 description: Confirmed invited speakers and panelists.
 ---
 

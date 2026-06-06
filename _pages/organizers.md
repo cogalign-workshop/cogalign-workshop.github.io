@@ -3,7 +3,7 @@ layout: page
 title: Organizers
 permalink: /organizers/
 nav: true
-nav_order: 6
+nav_order: 3
 description: Organizer and program committee information.
 ---
 
