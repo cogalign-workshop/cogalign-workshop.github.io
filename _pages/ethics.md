@@ -2,7 +2,7 @@
 layout: page
 title: Ethics
 permalink: /ethics/
-nav: true
+nav: false
 nav_order: 9
 description: Ethics, responsible research, and expected workshop outcomes.
 ---

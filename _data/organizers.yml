@@ -1,16 +1,50 @@
 organizers:
-  - name: TBC
-    affiliation: TBC
+  - name: Ming Li
+    affiliation: University of Maryland
     role: Organizer
-    website: TBC
-    email: TBC
-    bio: TBC
-    status: TBC
+    website: https://mingliiii.github.io/
+    email: minglii@umd.edu
+    bio: Ph.D. student in Computer Science working on large language models, post-training, interpretability, agent systems, and human-AI cognitive alignment.
+  - name: Yaochen Wang
+    affiliation: Mohamed bin Zayed University of Artificial Intelligence
+    role: Organizer
+    website: https://yaochen-wang.github.io/
+    email: yaochen.wang@mbzuai.ac.ae
+    bio: Research engineer working on data-centric AI, agentic AI, multimodal large language models, and evaluation of LLM-based systems.
+  - name: Stella Li
+    affiliation: University of Washington
+    role: Organizer
+    website: https://stellalisy.com/
+    email: stelli@cs.washington.edu
+    bio: Ph.D. student working at the intersection of NLP, cognitive modeling, personalization, proactive learning, and AI for health.
+  - name: Yunze (Lorenzo) Xiao
+    affiliation: Abaka AI / 2077AI Foundation
+    role: Organizer
+    website: https://algoroxyolo.github.io/
+    email: yunzex@andrew.cmu.edu
+    bio: Enterprise Agent Lead and Visiting Research Scientist working on human-like LLM behavior, emotionally aware interaction, memory, and agentic evaluation.
+  - name: Timothy Baldwin
+    affiliation: Mohamed bin Zayed University of Artificial Intelligence
+    role: Organizer
+    website: https://eltimster.github.io/www/
+    email: timothy.baldwin@mbzuai.ac.ae
+    bio: Provost and Professor of NLP at MBZUAI, Melbourne Laureate Professor at the University of Melbourne, and Chief Scientist of LibrAI.
+  - name: Tianyi Zhou
+    affiliation: Mohamed bin Zayed University of Artificial Intelligence
+    role: Organizer
+    website: https://tianyizhou.github.io/
+    email: tianyi.zhou@mbzuai.ac.ae
+    bio: Visiting Assistant Professor of NLP and ML working on machine learning, multimodal generative AI, LLM reasoning and alignment, agents, and world models.
 program_committee:
-  - Program committee members TBC
+  - Xirui Li (University of Maryland)
+  - An Vo (University of Michigan)
+  - Dongping Chen (University of Maryland)
+  - Haihong Wang (National University of Singapore)
+  - Siyuan Wu (The Chinese University of Hong Kong)
+  - Zhuoheng Li (Pennsylvania State University)
 diversity:
-  gender_balance: TBC
-  seniority_diversity: TBC
-  geographic_diversity: TBC
-  institutional_diversity: TBC
-  sector_diversity: TBC
+  gender_balance: Current invited speaker and panelist roster includes approximately five female and two male speakers.
+  seniority_diversity: Organizers include Ph.D. students, a research engineer, an industry researcher, an assistant professor, and a senior academic leader.
+  geographic_diversity: Organizers and speakers represent North America, Europe, Asia, the Middle East, and Australia through affiliations and professional backgrounds.
+  institutional_diversity: Organizers are affiliated with MBZUAI, University of Maryland, University of Washington, Carnegie Mellon University, Abaka AI, and 2077AI Foundation.
+  sector_diversity: The workshop includes academia, industrial research, and industry-facing organizations.

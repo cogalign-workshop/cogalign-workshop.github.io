@@ -1,24 +1,20 @@
 title: Human Modeling and Cognitive Alignment in Interactive Agents
-subtitle: Bridging Human Understanding, AI Metacognition, and Interactive Decision Making
+subtitle: Human modeling, AI metacognition, and interaction-policy selection
 tagline: How should AI understand humans and itself, and decide when to answer, ask, explain, defer, or act?
 short_name: CogAlign Workshop
-status: Proposed Workshop
-format: One-day Workshop
-expected_attendance: 200-400
-workshop_date: December 11, 12, or 13, 2026, TBC
-location: Atlanta / Sydney / Paris, TBC
+status: Proposed NeurIPS 2026 Workshop
+format: One-day workshop
+expected_attendance: 100-200
+workshop_date: December 11-13, 2026
+location: TBC
 url: https://cogalign-workshop.github.io/
 core_question: How should AI systems use uncertain models of humans and themselves to select interaction policies?
 core_position: Selecting appropriate interaction policies under uncertainty is the next frontier of agentic AI.
 description: >
-  Recent advances in foundation models have enabled AI systems that can reason,
-  plan, retrieve information, use tools, generate content, and participate in
-  increasingly complex workflows. As AI systems evolve from passive predictors
-  into interactive agents, they are increasingly judged not only by output
-  quality, but by the quality of their interactions with humans. This workshop
-  focuses on Human Modeling and Cognitive Alignment as an emerging
-  interdisciplinary area connecting human modeling, AI metacognition, cognitive
-  alignment, and interaction-policy selection.
+  Foundation-model agents increasingly reason, plan, use tools, retrieve
+  evidence, and act across long-horizon workflows. In human-facing settings,
+  success depends not only on producing a correct answer, but on choosing the
+  right interaction strategy for a person, task, context, and uncertainty level.
 proposal:
   community_relevance: >
     The workshop connects machine learning, NLP, robotics, HCI, cognitive
@@ -42,9 +38,9 @@ proposal:
     - Microphones for invited talks, panel discussion, and audience Q&A
     - Reliable Wi-Fi
     - Poster boards or equivalent poster-display space
-    - Space for 200-400 attendees
+    - Space for 100-200 attendees
     - Support for slide presentation from organizer/speaker laptops
     - Optional hybrid or recording support if available from the venue
     - Accessibility support consistent with conference policy
     - No unusual technical requirements beyond standard workshop infrastructure
-contact: TBC
+contact: minglii@umd.edu

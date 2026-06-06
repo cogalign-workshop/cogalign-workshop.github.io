@@ -4,25 +4,19 @@ items:
     title: Opening remarks
   - time: 09:00-10:00
     title: Two keynote talks
-  - time: 10:00-10:15
-    title: Coffee break
-  - time: 10:15-10:45
-    title: Poster Session 1
+  - time: 10:00-10:45
+    title: Poster Session 1 and coffee break
   - time: 10:45-11:45
-    title: Two keynote talks or oral paper session
+    title: Two keynote talks
   - time: 11:45-13:30
-    title: Lunch break and poster session
+    title: Lunch break and discussion
   - time: 13:30-14:30
     title: Two keynote talks
-  - time: 14:30-15:00
-    title: Poster Session 2
-  - time: 15:00-15:15
-    title: Coffee break
+  - time: 14:30-15:15
+    title: Poster Session 2 and coffee break
   - time: 15:15-16:15
     title: Oral paper session
   - time: 16:15-17:15
-    title: Panel discussion
-  - time: 17:15-17:45
-    title: Best paper presentations
-  - time: 17:45-18:00
-    title: Closing remarks
+    title: Panel discussion with invited speakers
+  - time: 17:15-18:00
+    title: Best paper presentation and closing remarks

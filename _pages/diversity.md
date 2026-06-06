@@ -2,7 +2,7 @@
 layout: page
 title: Diversity
 permalink: /diversity/
-nav: true
+nav: false
 nav_order: 7
 description: Diversity and inclusion statement for the proposed workshop.
 ---

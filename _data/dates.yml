@@ -14,16 +14,20 @@
   date: August 27, 2026
   time: Midnight AoE
   status: Tentative
+- label: Review assignment
+  date: August 28-30, 2026
+  time: Midnight AoE
+  status: Tentative
 - label: Review period
-  date: August 28-September 17, 2026
+  date: August 31-September 20, 2026
   time: Midnight AoE
   status: Tentative
 - label: Discussion period
-  date: September 18-24, 2026
+  date: September 21-27, 2026
   time: Midnight AoE
   status: Tentative
 - label: Notification of acceptance
-  date: September 30, 2026
+  date: September 29, 2026
   time: Midnight AoE
   status: Tentative
 - label: Camera-ready deadline
@@ -31,6 +35,6 @@
   time: Midnight AoE
   status: Tentative
 - label: Workshop date
-  date: December 11, 12, or 13, 2026
+  date: December 11-13, 2026
   time: TBC
   status: TBC

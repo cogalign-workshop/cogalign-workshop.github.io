@@ -1,161 +1,51 @@
-- group: Cognitive science
+- group: Confirmed speakers and panelists
   speakers:
-    - name: Josh Tenenbaum
-      area: Cognitive science
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
     - name: Tom Griffiths
-      area: Cognitive science
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: Noah Goodman
-      area: Cognitive science
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-- group: Human-AI interaction
-  speakers:
-    - name: Saleema Amershi
-      area: Human-AI interaction
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: Q. Vera Liao
-      area: Human-AI interaction
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: Krzysztof Gajos
-      area: Human-AI interaction
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-- group: Human modeling and social reasoning
-  speakers:
-    - name: Maarten Sap
-      area: Human modeling and social reasoning
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: Yejin Choi
-      area: Human modeling and social reasoning
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: Vered Shwartz
-      area: Human modeling and social reasoning
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-- group: Robotics and embodied AI
-  speakers:
-    - name: Dorsa Sadigh
-      area: Robotics and embodied AI
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: Anca Dragan
-      area: Robotics and embodied AI
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: Cynthia Breazeal
-      area: Robotics and embodied AI
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-- group: AI alignment and agents
-  speakers:
-    - name: Amanda Askell
-      area: AI alignment and agents
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: Percy Liang
-      area: AI alignment and agents
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: Graham Neubig
-      area: AI alignment and agents
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-- group: Education and recommendation systems
-  speakers:
+      area: Cognitive science and resource-rational modeling
+      affiliation: Princeton University
+      status: Confirmed
+      website: https://cocosci.princeton.edu/tom/index.php
+      bio: Professor of Psychology and Computer Science at Princeton University and Director of the Computational Cognitive Science Lab.
+      connection: Human beliefs, limitations, decision making, and learning in interactive settings.
+    - name: Josh Tenenbaum
+      area: Computational cognitive science
+      affiliation: MIT
+      status: Confirmed
+      website: https://cocosci.mit.edu/josh-tenenbaum/
+      bio: Professor of Computational Cognitive Science at MIT, principal investigator at CSAIL, and a thrust leader in the Center for Brains, Minds, and Machines.
+      connection: Theory of mind, common-sense reasoning, human learning, and cognitive modeling for human-aware AI.
+    - name: Iryna Gurevych
+      area: Natural language processing
+      affiliation: Technical University of Darmstadt
+      status: Confirmed
+      website: https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp
+      bio: Professor of Computer Science and Head of the Ubiquitous Knowledge Processing Lab.
+      connection: Reliable language technologies, NLP, and human-AI collaboration in interactive systems.
     - name: Emma Brunskill
-      area: Education and recommendation systems
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: Ryan Baker
-      area: Education and recommendation systems
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: Yongfeng Zhang
-      area: Education and recommendation systems
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-- group: Affective computing and AI companions
-  speakers:
-    - name: Rosalind Picard
-      area: Affective computing and AI companions
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: Meredith Ringel Morris
-      area: Affective computing and AI companions
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
-    - name: John Torous
-      area: Affective computing and AI companions
-      affiliation: TBC
-      status: Potential / TBC
-      website: TBC
-      bio: TBC
-      talk_title: TBC
+      area: Reinforcement learning and education
+      affiliation: Stanford University
+      status: Confirmed
+      website: https://cs.stanford.edu/people/ebrun/
+      bio: Associate Professor in the Computer Science Department at Stanford University.
+      connection: Sequential decision making, adaptive tutoring, and uncertainty-aware policy learning.
+    - name: Q. Vera Liao
+      area: Human-AI interaction and responsible AI
+      affiliation: University of Michigan
+      status: Confirmed
+      website: https://qveraliao.com/
+      bio: Associate Professor in Computer Science and Engineering at the University of Michigan.
+      connection: Explainable AI, uncertainty communication, trust, reliance, control, and oversight.
+    - name: Pascale Fung
+      area: Conversational and trustworthy AI
+      affiliation: AMI Labs / HKUST
+      status: Confirmed
+      website: https://pascalefung.com/
+      bio: Co-founder and Chief Research & Innovation Officer at AMI Labs and Chair Professor at HKUST.
+      connection: Trustworthy conversational agents, human intent and emotion, and real-world capability boundaries.
+    - name: Saleema Amershi
+      area: Human-AI collaboration
+      affiliation: Microsoft Research
+      status: Confirmed
+      website: https://www.microsoft.com/en-us/research/people/samershi/
+      bio: Partner Research Manager at Microsoft Research and member of the Microsoft Research AI Frontiers leadership team.
+      connection: Designing, evaluating, and deploying human-centered agentic systems.

@@ -28,4 +28,4 @@ Status: **{{ site.data.schedule.status }}**
   </tbody>
 </table>
 
-Final timing, session titles, and speaker assignments are TBC.
+Final timing and speaker assignments are TBC.

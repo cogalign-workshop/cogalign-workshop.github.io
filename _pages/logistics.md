@@ -2,7 +2,7 @@
 layout: page
 title: Logistics
 permalink: /logistics/
-nav: true
+nav: false
 nav_order: 8
 description: Attendance, location preference, technical needs, and conflict disclosures.
 ---
