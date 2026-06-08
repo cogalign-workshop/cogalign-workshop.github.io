@@ -3,46 +3,53 @@ organizers:
     affiliation: University of Maryland
     role: Organizer
     website: https://mingliiii.github.io/
+    image: /assets/img/people/ming-li.png
     email: minglii@umd.edu
     bio: Ph.D. student in Computer Science working on large language models, post-training, interpretability, agent systems, and human-AI cognitive alignment.
   - name: Yaochen Wang
     affiliation: Mohamed bin Zayed University of Artificial Intelligence
     role: Organizer
     website: https://yaochen-wang.github.io/
+    image: /assets/img/people/yaochen-wang.jpg
     email: yaochen.wang@mbzuai.ac.ae
     bio: Research engineer working on human modeling, cognitive alignment, agentic AI, multimodal large language models, and evaluation of LLM-based systems.
   - name: Shuyue Stella Li
     affiliation: University of Washington / Meta AI Research
     role: Organizer
     website: https://stellalisy.com/
+    image: /assets/img/people/shuyue-stella-li.png
     email: stelli@cs.washington.edu
     bio: Ph.D. student working on clinical reasoning, long-horizon personalization, proactive question-asking, and uncertainty communication.
   - name: Yunze (Lorenzo) Xiao
     affiliation: Abaka AI / 2077AI Foundation
     role: Organizer
     website: https://algoroxyolo.github.io/
+    image: /assets/img/people/yunze-xiao.jpg
     email: yunzex@andrew.cmu.edu
     bio: Enterprise Agent Lead and Visiting Research Scientist working on human-like LLM behavior, persona consistency, contextual memory, emotionally aware interaction, and agentic evaluation.
   - name: Yulia Tsvetkov
     affiliation: University of Washington
     role: Organizer
     website: https://homes.cs.washington.edu/~yuliats/
+    image: /assets/img/people/yulia-tsvetkov.jpg
     email: yuliats@cs.washington.edu
     bio: Associate Professor working on large language models, multilingual NLP, AI ethics, abstention, and knowledge-gap identification.
   - name: Timothy Baldwin
     affiliation: Mohamed bin Zayed University of Artificial Intelligence
     role: Organizer
     website: https://eltimster.github.io/www/
+    image: /assets/img/people/timothy-baldwin.gif
     email: timothy.baldwin@mbzuai.ac.ae
     bio: Provost and Professor of NLP at MBZUAI, Melbourne Laureate Professor at the University of Melbourne, and Chief Scientist of LibrAI.
   - name: Tianyi Zhou
     affiliation: Mohamed bin Zayed University of Artificial Intelligence
     role: Organizer
     website: https://tianyizhou.github.io/
+    image: /assets/img/people/tianyi-zhou.jpg
     email: tianyi.zhou@mbzuai.ac.ae
     bio: Visiting Assistant Professor of NLP and ML working on machine learning, multimodal generative AI, LLM reasoning and alignment, agents, and world models.
 diversity:
-  gender_balance: The organizing team includes two female and five male organizers; the confirmed invited roster includes approximately five female and two male speakers.
+  gender_balance: The organizing team includes two female and five male organizers; the invited roster includes approximately five female and two male speakers.
   seniority_diversity: Organizers include Ph.D. students, a research engineer, an industry researcher, assistant and associate professors, and a senior academic leader.
   geographic_diversity: Organizers and speakers represent North America, Europe, Asia, the Middle East, and Australia.
   institutional_diversity: Organizers are affiliated with MBZUAI, University of Maryland, University of Washington, Carnegie Mellon University, Meta AI Research, Abaka AI, and 2077AI Foundation.

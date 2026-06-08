@@ -4,41 +4,48 @@
       area: Cognitive science and resource-rational modeling
       affiliation: Princeton University
       website: https://cocosci.princeton.edu/tom/index.php
+      image: /assets/img/people/tom-griffiths.jpg
       bio: Professor of Psychology and Computer Science at Princeton University and Director of the Computational Cognitive Science Lab.
       connection: Formal foundations for modeling human beliefs, limitations, decisions, and learning processes in interactive settings.
     - name: Josh Tenenbaum
       area: Computational cognitive science
       affiliation: MIT
       website: https://cocosci.mit.edu/josh-tenenbaum/
+      image: /assets/img/people/josh-tenenbaum.jpg
       bio: Professor of Computational Cognitive Science at MIT, principal investigator at CSAIL, and a thrust leader in the Center for Brains, Minds, and Machines.
       connection: Theory of mind, inverse planning, common-sense reasoning, and human learning for human-aware agents.
     - name: Emma Brunskill
       area: Reinforcement learning and education
       affiliation: Stanford University
       website: https://cs.stanford.edu/people/ebrun/
+      image: /assets/img/people/emma-brunskill-stanford.jpg
       bio: Associate Professor in the Computer Science Department at Stanford University.
       connection: Sequential decision making, adaptive tutoring, and uncertainty-aware policy learning.
     - name: Q. Vera Liao
       area: Human-AI interaction and responsible AI
       affiliation: University of Michigan
       website: https://qveraliao.com/
+      image: /assets/img/people/q-vera-liao.jpg
       bio: Associate Professor in Computer Science and Engineering at the University of Michigan.
       connection: Communicating capability limits and uncertainty so users can calibrate trust and reliance appropriately.
     - name: Saleema Amershi
       area: Human-AI collaboration
       affiliation: Microsoft Research
       website: https://www.microsoft.com/en-us/research/people/samershi/
+      image: /assets/img/people/saleema-amershi.jpg
       bio: Partner Research Manager at Microsoft Research and member of the Microsoft Research AI Frontiers leadership team.
       connection: Production-system perspectives on interaction policy failures as agents become collaborators and autonomous actors.
     - name: Iryna Gurevych
       area: Natural language processing
       affiliation: Technical University of Darmstadt
       website: https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp
+      image: /assets/img/people/iryna-gurevych.png
       bio: Professor of Computer Science and Head of the Ubiquitous Knowledge Processing Lab.
       connection: Reliability, verification, tutoring, and when language systems should ask, explain, retrieve evidence, or defer.
     - name: Pascale Fung
       area: Conversational and trustworthy AI
       affiliation: AMI Labs / HKUST
       website: https://pascalefung.com/
+      image: /assets/img/people/pascale-fung.jpg
       bio: Co-founder and Chief Research & Innovation Officer at AMI Labs and Chair Professor at HKUST.
       connection: Trustworthy conversational agents that recognize knowledge limits, understand human intent and emotion, and decide when to answer, ask, or defer.
