@@ -83,37 +83,6 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
     max-width: 55rem;
   }
 
-  .workshop-question {
-    background: var(--accent-soft);
-    border-left: 4px solid var(--accent);
-    font-size: 1.08rem;
-    line-height: 1.5;
-    margin: 1.4rem 0 0;
-    padding: 1rem 1.1rem;
-  }
-
-  .workshop-grid {
-    display: grid;
-    gap: 1rem;
-    grid-template-columns: repeat(auto-fit, minmax(13.5rem, 1fr));
-    margin-top: 1.1rem;
-  }
-
-  .workshop-panel {
-    border: 1px solid var(--global-divider-color);
-    border-radius: 0.35rem;
-    padding: 1rem;
-  }
-
-  .workshop-panel h3 {
-    font-size: 1.08rem;
-    margin: 0 0 0.45rem;
-  }
-
-  .workshop-panel p {
-    margin-bottom: 0;
-  }
-
   .cfp-details {
     display: grid;
     gap: 0.85rem;
@@ -132,15 +101,14 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
     font-weight: 700;
   }
 
-  .workshop-list {
-    columns: 2;
-    column-gap: 2rem;
-    margin-top: 1rem;
+  .scope-copy {
+    max-width: 58rem;
   }
 
-  .workshop-list li {
-    break-inside: avoid;
-    margin-bottom: 0.45rem;
+  .scope-copy p {
+    font-size: 1.08rem;
+    line-height: 1.7;
+    margin-bottom: 1rem;
   }
 
   .workshop-table-wrap {
@@ -227,10 +195,6 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
       max-width: 14ch;
     }
 
-    .workshop-list {
-      columns: 1;
-    }
-
     .person-grid {
       gap: 2rem 1rem;
     }
@@ -267,31 +231,11 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
 
   <section class="workshop-section" id="scope">
     <h2>Workshop Scope</h2>
-    <p class="workshop-lede">{{ site.data.workshop.description }}</p>
-    <div class="workshop-question">
-      <strong>Central question:</strong> {{ site.data.workshop.core_question }}
+    <div class="scope-copy">
+      <p>As foundation-model agents become collaborators in real workflows, the central challenge is no longer only whether they can solve a task. It is whether they can understand the human context, recognize the limits of their own knowledge and capabilities, and choose an appropriate way to interact.</p>
+      <p>CogAlign brings together human modeling, AI metacognition, and interaction policy: how systems infer goals, preferences, uncertainty, trust, cognitive load, and intent; how they judge evidence, risk, and capability boundaries; and how they decide when to answer, ask, explain, retrieve, recommend, teach, defer, or act.</p>
+      <p>The workshop welcomes methods, evaluations, datasets, systems, and position papers that make human-AI interaction more adaptive, calibrated, and accountable across domains such as education, healthcare, robotics, AI companions, scientific discovery, and recommendation.</p>
     </div>
-
-    <div class="workshop-grid">
-      <div class="workshop-panel">
-        <h3>Human Modeling</h3>
-        <p>Inferring goals, preferences, knowledge, trust, uncertainty, cognitive load, intent, and emotional needs.</p>
-      </div>
-      <div class="workshop-panel">
-        <h3>AI Metacognition</h3>
-        <p>Estimating capability boundaries, evidence strength, risk, reliability, and when the system should not act alone.</p>
-      </div>
-      <div class="workshop-panel">
-        <h3>Interaction Policies</h3>
-        <p>Choosing when to answer, ask, explain, retrieve, recommend, teach, collaborate, escalate, defer, or act.</p>
-      </div>
-    </div>
-
-    <ul class="workshop-list">
-      {% for topic in site.data.topics.topics %}
-        <li>{{ topic }}</li>
-      {% endfor %}
-    </ul>
   </section>
 
   <section class="workshop-section" id="speakers">

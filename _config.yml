@@ -7,11 +7,12 @@ first_name: CogAlign
 middle_name:
 last_name: Workshop
 contact_note: >
-  Contact: <a href="mailto:minglii@umd.edu">minglii@umd.edu</a>.
+  Contact: <a href="mailto:yaochen.wang@mbzuai.ac.ae">Yaochen.Wang@mbzuai.ac.ae</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Proposed NeurIPS 2026 workshop on human modeling, AI metacognition, cognitive alignment, and interaction-policy selection.
 footer_text: >
-  Human Modeling and Cognitive Alignment in Interactive Agents.
+  Human Modeling and Cognitive Alignment in Interactive Agents.<br />
+  Contact: <a href="mailto:yaochen.wang@mbzuai.ac.ae">Yaochen.Wang@mbzuai.ac.ae</a>
 keywords: human modeling, cognitive alignment, interactive agents, AI metacognition, NeurIPS workshop, human-AI interaction # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: cogalign-logo.svg # favicon/logo file in /assets/img/
