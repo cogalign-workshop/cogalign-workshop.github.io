@@ -4,7 +4,7 @@ title: Organizers
 permalink: /organizers/
 nav: true
 nav_order: 3
-description: Organizer and program committee information.
+description: Workshop organizer information.
 ---
 
 # Organizers
@@ -19,9 +19,4 @@ description: Organizer and program committee information.
 
 {% endfor %}
 
-## Program Committee
-
-{% for member in site.data.organizers.program_committee %}
-
-- {{ member }}
-  {% endfor %}
+Contact: [{{ site.data.workshop.contact }}](mailto:{{ site.data.workshop.contact }})

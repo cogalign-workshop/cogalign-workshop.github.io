@@ -1,11 +1,10 @@
 topics:
-  - Human modeling, user modeling, theory of mind, personalization, preference learning, human simulation, and social reasoning
-  - AI metacognition, uncertainty estimation, calibration, self-evaluation, capability assessment, selective prediction, and risk-aware reasoning
-  - Cognitive alignment, interaction policies, clarification strategies, human-aware planning, human-AI collaboration, and shared mental models
-  - Foundation models, multimodal systems, agentic AI, tool-using agents, memory systems, embodied agents, and robotics
-  - AI companions, affective computing, trust, emotional modeling, long-term adaptation, and human-AI relationships
-  - Evaluation methodologies, benchmarks, longitudinal studies, trust calibration, and human-centered metrics
-  - Applications in education, healthcare, public health, scientific discovery, journalism, recommendation systems, accessibility, finance, and social robotics
+  - Human state modeling, including theory of mind, knowledge and uncertainty modeling, trust, cognitive load, goals, and intent
+  - AI metacognition, including capability boundary assessment, selective prediction, abstention, reliability estimation, and out-of-distribution self-assessment
+  - Interaction policy learning, including clarification, human-aware planning, escalation, and deferral
+  - Personalization and longitudinal adaptation
+  - Evaluation and benchmarks, including human-centered metrics and trust calibration
+  - Applications in education, healthcare, robotics, AI companions, scientific discovery, and recommendation
 domains:
   - name: Education and tutoring
     description: Interaction policies determine when systems should teach, quiz, hint, explain, adapt, or hand control back to learners.

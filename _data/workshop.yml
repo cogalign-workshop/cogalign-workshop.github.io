@@ -11,10 +11,11 @@ url: https://cogalign-workshop.github.io/
 core_question: How should AI systems use uncertain models of humans and themselves to select interaction policies?
 core_position: Selecting appropriate interaction policies under uncertainty is the next frontier of agentic AI.
 description: >
-  Foundation-model agents increasingly reason, plan, use tools, retrieve
-  evidence, and act across long-horizon workflows. In human-facing settings,
-  success depends not only on producing a correct answer, but on choosing the
-  right interaction strategy for a person, task, context, and uncertainty level.
+  Foundation-model agents increasingly reason over long horizons, use tools,
+  retrieve evidence, generate code and content, and participate in complex human
+  workflows. As they move from passive predictors to interactive agents, success
+  depends not only on what they can do, but on how they decide what to do next
+  with people.
 proposal:
   community_relevance: >
     The workshop connects machine learning, NLP, robotics, HCI, cognitive

@@ -275,13 +275,6 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
       {% endfor %}
     </div>
 
-    <h3>Program Committee</h3>
-    <ul class="workshop-list">
-      {% for member in site.data.organizers.program_committee %}
-        <li>{{ member }}</li>
-      {% endfor %}
-    </ul>
-
     <p class="workshop-small">Contact: <a href="mailto:{{ site.data.workshop.contact }}">{{ site.data.workshop.contact }}</a></p>
   </section>
 
