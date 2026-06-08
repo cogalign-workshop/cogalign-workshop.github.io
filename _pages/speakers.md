@@ -4,7 +4,7 @@ title: Speakers
 permalink: /speakers/
 nav: true
 nav_order: 2
-description: Confirmed invited speakers and panelists.
+description: Invited speakers and panelists.
 ---
 
 # Invited Speakers and Panelists
@@ -15,7 +15,7 @@ description: Confirmed invited speakers and panelists.
 
 ## [{{ speaker.name }}]({{ speaker.website }})
 
-**{{ speaker.affiliation }}** · {{ speaker.area }} · {{ speaker.status }}
+**{{ speaker.affiliation }}** · {{ speaker.area }}
 
 {{ speaker.connection }}
 

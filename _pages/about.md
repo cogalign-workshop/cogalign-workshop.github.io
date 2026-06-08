@@ -256,7 +256,7 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
       {% for speaker in group.speakers %}
         <article class="workshop-person">
           <h3><a href="{{ speaker.website }}">{{ speaker.name }}</a></h3>
-          <p class="workshop-person-meta">{{ speaker.affiliation }} · {{ speaker.area }} · {{ speaker.status }}</p>
+          <p class="workshop-person-meta">{{ speaker.affiliation }} · {{ speaker.area }}</p>
           <p>{{ speaker.connection }}</p>
         </article>
       {% endfor %}
