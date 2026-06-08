@@ -109,5 +109,3 @@ description: Workshop organizer information.
     </a>
   {% endfor %}
 </div>
-
-Contact: [{{ site.data.workshop.contact }}](mailto:{{ site.data.workshop.contact }})

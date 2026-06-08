@@ -57,39 +57,12 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
     padding-left: 1rem;
   }
 
-  .workshop-meta,
-  .workshop-nav {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.55rem;
-  }
-
   .workshop-meta {
-    margin: 0.9rem 0 1.1rem;
-  }
-
-  .workshop-meta span,
-  .workshop-nav a {
-    border: 1px solid var(--global-divider-color);
-    border-radius: 0.35rem;
-    display: inline-flex;
-    line-height: 1.2;
-    padding: 0.48rem 0.68rem;
-  }
-
-  .workshop-nav {
-    margin: 1.1rem 0 0;
-  }
-
-  .workshop-nav a {
     color: var(--global-text-color);
+    font-size: clamp(1.35rem, 2.8vw, 2rem);
     font-weight: 600;
-    text-decoration: none;
-  }
-
-  .workshop-nav a:hover {
-    border-color: var(--accent);
-    color: var(--accent);
+    line-height: 1.25;
+    margin: 1.15rem 0 0;
   }
 
   .workshop-section {
@@ -139,6 +112,24 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
 
   .workshop-panel p {
     margin-bottom: 0;
+  }
+
+  .cfp-details {
+    display: grid;
+    gap: 0.85rem;
+    margin-top: 1.25rem;
+    max-width: 55rem;
+  }
+
+  .cfp-details p {
+    font-size: 1rem;
+    line-height: 1.55;
+    margin: 0;
+  }
+
+  .cfp-details strong {
+    color: var(--global-text-color);
+    font-weight: 700;
   }
 
   .workshop-list {
@@ -271,21 +262,7 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
     <p class="workshop-subtitle">{{ site.data.workshop.subtitle }}</p>
     <p class="workshop-tagline"><strong>{{ site.data.workshop.tagline }}</strong></p>
 
-    <div class="workshop-meta" aria-label="Workshop metadata">
-      <span>{{ site.data.workshop.status }}</span>
-      <span>{{ site.data.workshop.format }}</span>
-      <span>{{ site.data.workshop.workshop_date }}</span>
-      <span>{{ site.data.workshop.expected_attendance }} expected attendees</span>
-    </div>
-
-    <nav class="workshop-nav" aria-label="Workshop sections">
-      <a href="#scope">Scope</a>
-      <a href="#speakers">Speakers</a>
-      <a href="#organizers">Organizers</a>
-      <a href="#cfp">CFP</a>
-      <a href="#dates">Dates</a>
-      <a href="#schedule">Schedule</a>
-    </nav>
+    <p class="workshop-meta">{{ site.data.workshop.workshop_date }}</p>
   </header>
 
   <section class="workshop-section" id="scope">
@@ -344,26 +321,16 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
       {% endfor %}
     </div>
 
-    <p class="workshop-small">Contact: <a href="mailto:{{ site.data.workshop.contact }}">{{ site.data.workshop.contact }}</a></p>
   </section>
 
   <section class="workshop-section" id="cfp">
     <h2>Call for Papers</h2>
     <p class="workshop-lede">We welcome research papers, benchmark papers, datasets, systems papers, position papers, and interdisciplinary studies on human modeling, AI metacognition, and interaction-level decision making in agentic systems.</p>
 
-    <div class="workshop-grid">
-      <div class="workshop-panel">
-        <h3>Submission Format</h3>
-        <p>Main text up to 9 pages, excluding references and appendices. Submissions are double-blind and non-archival.</p>
-      </div>
-      <div class="workshop-panel">
-        <h3>Review Focus</h3>
-        <p>Relevance, scientific quality, novelty, impact, clarity, and evaluation or reproducibility rigor where appropriate.</p>
-      </div>
-      <div class="workshop-panel">
-        <h3>Submission Site</h3>
-        <p>TBC</p>
-      </div>
+    <div class="cfp-details">
+      <p><strong>Submission Format:</strong> Main text up to 9 pages, excluding references and appendices. Submissions are double-blind and non-archival.</p>
+      <p><strong>Review Focus:</strong> Relevance, scientific quality, novelty, impact, clarity, and evaluation or reproducibility rigor where appropriate.</p>
+      <p><strong>Submission Site:</strong> TBC</p>
     </div>
   </section>
 

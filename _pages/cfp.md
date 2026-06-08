@@ -46,7 +46,3 @@ We welcome research papers, benchmark papers, datasets, systems papers, position
 ## Submission Site
 
 TBC
-
-## Contact
-
-{{ site.data.workshop.contact }}
