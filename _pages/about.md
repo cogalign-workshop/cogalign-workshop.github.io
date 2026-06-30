@@ -111,6 +111,19 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
     margin-bottom: 1rem;
   }
 
+  .workshop-resource {
+    background: var(--accent-soft);
+    border-left: 4px solid var(--accent);
+    line-height: 1.55;
+    margin: 1.35rem 0 0;
+    max-width: 55rem;
+    padding: 0.85rem 1rem;
+  }
+
+  .workshop-resource p {
+    margin: 0;
+  }
+
   .workshop-table-wrap {
     overflow-x: auto;
   }
@@ -235,6 +248,9 @@ description: Proposed NeurIPS 2026 workshop on human modeling, AI metacognition,
       <p>As foundation-model agents become collaborators in real workflows, the central challenge is no longer only whether they can solve a task. It is whether they can understand the human context, recognize the limits of their own knowledge and capabilities, and choose an appropriate way to interact.</p>
       <p>CogAlign brings together human modeling, AI metacognition, and interaction policy: how systems infer goals, preferences, uncertainty, trust, cognitive load, and intent; how they judge evidence, risk, and capability boundaries; and how they decide when to answer, ask, explain, retrieve, recommend, teach, defer, or act.</p>
       <p>The workshop welcomes methods, evaluations, datasets, systems, and position papers that make human-AI interaction more adaptive, calibrated, and accountable across domains such as education, healthcare, robotics, AI companions, scientific discovery, and recommendation.</p>
+      <div class="workshop-resource">
+        <p><strong>Position paper:</strong> <a href="https://raw.githubusercontent.com/Misaki-Wang/Coupled-Cognitive-Alignment/main/Coupled-Cognitive-Alignment.pdf">Human Modeling Meets AI Metacognition: Toward Coupled Cognitive Alignment for Interactive Agents</a></p>
+      </div>
     </div>
   </section>
 
